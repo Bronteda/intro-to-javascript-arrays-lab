@@ -212,8 +212,6 @@ console.log('Exercise 12 Results:');
 console.log('  fizz:', fizz);
 console.log('  buzz:', buzz);
 console.log('  fizzbuzz:', fizzbuzz);
-/* I feel like there is a better way to do this , this seems very chunky*/
-
 
 
 /*
